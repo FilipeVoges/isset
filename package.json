@@ -2,11 +2,11 @@
     "name": "@filipevoges/isset",
     "version": "1.0.1",
     "description": "PHP isset function equivalent in Javascript",
-    "main": "index.js",
+    "main": "isset.js",
     "scripts": {
-        "start": "node index.js",
-        "build": "node index.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "start": "node isset.js",
+        "build": "node isset.js",
+        "test": "node tests/test.js"
     },
     "repository": {
         "type": "git",
